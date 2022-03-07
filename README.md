@@ -1,6 +1,8 @@
 # Fish7
 ### What is this?
-This HTML file is designed to automatically create browsing history entries. While it shares similarities with "history flooding" tools, it allows for more in-depth control over how entries are created. When used properly, the browsing history of a user may turn out to be more convincing than if a history flooding tool had been used.
+This HTML file is designed to automatically create browsing history entries. While it shares similarities with "history flooding" tools, it allows for more in-depth control over how entries are created. When used properly, the browsing history of a user may turn out to be more convincing than if a history flooding tool had been used.  
+  
+To use the file, [view the raw contents](https://raw.githubusercontent.com/00Fjongl/Fish7/0/Fish7%20Auto-Browser.html), hold CTRL, and press S to save. Open the downloaded file in the browser to get started.
 ### Features
 * Customizable intervals
 * Customizable site list
