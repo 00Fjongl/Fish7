@@ -16,7 +16,7 @@ Holding Shift while clicking on **Begin** will also create a new tab. However, i
 The **Terminate** button closes all of the tabs created by the file. This only works if the user did not hold Shift upon beginning.  
   
 The box in the upper-right corner exports the entire menu, including its current site list, history, and settings, as a bookmarklet.  
-Additionally, exported settings can be loaded by replacing the entire site list with the bookmarklet, then holding Shift while clicking to begin.
+Additionally, exported settings can be loaded by replacing the entire site list with the bookmarklet, then holding Shift and clicking to begin.
 ##### What do the options do?
 There are options to set how quickly a tab switches websites, to set when a tab should close itself (if ever), and to replace frequent words or phrases in the site list. The options are as follows:
 Option | Effect | Parameters
