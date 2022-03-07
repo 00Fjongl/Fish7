@@ -10,8 +10,7 @@ This HTML file is designed to automatically create browsing history entries. Whi
 * Export as bookmarklet
 ### Using the menus
 ##### What do the buttons do?
-The **Begin** button creates a new tab using information from the rest of the text boxes. Hold CTRL while clicking to create tabs more quickly.  
-Websites are automatically selected from the site list at random. Bookmarklets and data URIs will not function by default.  
+The **Begin** button creates a new tab using information from the rest of the text boxes. Hold CTRL while clicking to create tabs more quickly. Websites are automatically selected from the site list at random. Bookmarklets and data URIs will not function by default.  
   
 Holding Shift while clicking on it will also create a new tab. However, it will only visit the URLs in the order they are listed, execute any bookmarklets on the menu, and end after visiting all URLs in the list.  
   
