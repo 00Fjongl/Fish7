@@ -11,7 +11,7 @@ This HTML file is designed to automatically create browsing history entries. Whi
 ### Using the menus
 ##### What do the buttons do?
 The **Begin** button creates a new tab using information from the rest of the text boxes. Hold CTRL while clicking to create tabs more quickly.  
-Holding Shift while clicking on it will also create a new tab. However, it will visit the URLs in the order they are listed, execute any bookmarklets on the menu, and end after visiting all URLs in the list.  
+Holding Shift while clicking on it will also create a new tab. However, it will only visit the URLs in the order they are listed, execute any bookmarklets on the menu, and end after visiting all URLs in the list.  
   
 The **Terminate** button closes all of the tabs created by the file. This only works if the user did not hold Shift upon beginning.  
   
