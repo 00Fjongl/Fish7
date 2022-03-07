@@ -26,5 +26,7 @@ Option | Effect | Parameters
 The left box contains the site list that will be processed. The right box is a menu that will show what was entered last, separated for each tab. The area directly above the two boxes tracks all sites that the file attempted to visit.  
   
 URLs in the right box can be edited. Pressing Enter after changing the site will cause the associated tab to visit the new URL, acting as an override.
-* If no text is supplied upon entering, then the tab will close.  
+* If no text is supplied upon entering, then its tab will close.  
 * If the text is not a website, then Google will be used to search for it instead.
+##### Working with multiple sessions
+Each generated tab will keep track of the site list, interval, and all other settings at the time of being opened. Modifying any of the settings afterward will not affect previous tabs. This allows for the creation of multiple tabs, or sessions, that use different settings.
