@@ -24,4 +24,6 @@ Option | Effect | Parameters
 `replace` and `with` | Replace keywords, phrases, or other content that appears in the site list. Useful for changing all `https` to `http` and vice versa. | Enter what's being replaced in `replace`. Enter what it should be replaced with in `with`. Hold Shift and press Enter to replace.
 ##### What are the larger boxes for?
 The left box contains the site list that will be processed. The right box is a menu that will show what was entered last, separated for each tab. The area directly above the two boxes tracks all sites that the file attempted to visit.  
-URLs in the right box can be edited. Pressing Enter after changing the site will cause the associated tab to visit the new URL, acting as an override. If no text is supplied upon entering, then the tab will close. If the text is not a website, then Google will be used to search for it instead.
+URLs in the right box can be edited. Pressing Enter after changing the site will cause the associated tab to visit the new URL, acting as an override.  
+* If no text is supplied upon entering, then the tab will close.  
+* If the text is not a website, then Google will be used to search for it instead.
