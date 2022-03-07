@@ -31,5 +31,7 @@ The left box contains the site list that will be processed. The right box is a m
 URLs in the right box can be edited. Pressing Enter after changing the site will cause the associated tab to visit the new URL, acting as an override.
 * If no text is supplied upon entering, then its tab will close.  
 * If the text is not a website, then Google will be used to search for it instead.
+##### Can I resize the boxes?
+Currently, only the large menu boxes can be resized. There is a small handle at the bottom-left of the site list menu to resize horizontally, and a small handle at the bottom-left of the top menu to resize vertically.
 ##### Working with multiple sessions
 Each generated tab will keep track of the site list, interval, and all other settings at the time of being opened. Modifying any of the settings afterward will not affect previous tabs. This allows for the creation of multiple tabs, or sessions, that use different settings.
