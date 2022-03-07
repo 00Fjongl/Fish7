@@ -20,4 +20,4 @@ Option | Effect | Parameters
 ------ | ------ | ----------
 `Rate\|ms` | Set how quickly a tab switches websites. | Set the interval in milliseconds. Numbers expressed in scientific E notation are also accepted (e.g. 1e4 for 10,000).
 `Timeout\|ms` | Set when a tab should close itself. | Leave empty to have the tab never close itself. Otherwise, the parameters are the same as with `Rate|ms`.
-`Random hash` | Add a random ending to the end of every URL. Does not change the content of the website, but allows revisited sites to be registered more often in the browsing history.
+`Random&nbsp;hash` | Add a random ending to the end of every URL. Does not change the content of the website, but allows revisited sites to be registered more often in the browsing history.
